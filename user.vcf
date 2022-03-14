@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Rodrigues;Nayara;;;
-FN: Rodrigues Nayara
+N:Amorim;Luis;;;
+FN: Amorim Luis
 ORG:GH Wesco;
-TITLE:Comercial
-EMAIL;type=INTERNET;type=WORK;type=pref:nayara@ghwesco.com.br
-TEL;type=WORK;type=VOICE:11 957428250
+TITLE: Gerente de Vendas - Data Center
+EMAIL;type=INTERNET;type=WORK;type=pref:luis.amorim@ghwesco.com.br
+TEL;type=WORK;type=VOICE:11 992374470
 item1.ADR;type=WORK;type=pref:;;Rua Machado Bitencourt\, 361 \, 4 andar;;;Vila da Saúde;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:https://ghwesco.com.br/
